@@ -1,0 +1,6 @@
+{
+  "name": "SCORNER",
+  "description": "Comprehensive academic student portal with profiles, transcripts, certifications, role-based dashboards, fee payments, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
